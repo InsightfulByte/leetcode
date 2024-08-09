@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/InsightfulByte/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/InsightfulByte/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -47,10 +48,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/InsightfulByte/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/InsightfulByte/leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/InsightfulByte/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/InsightfulByte/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/InsightfulByte/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
